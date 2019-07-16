@@ -1,0 +1,76 @@
+{
+    "italic":"*",
+
+    "italic#1":"_",
+
+    "bold":"**",
+
+    "bold_italics":"***",
+
+    "underline":"__",
+
+    "underline_italics":{
+        "start":"__*",
+        "end":"*__"
+    },
+
+    "underline_bold":{
+        "start":"__**",
+        "end":"**__"
+    },
+
+    "underline_bold_italics":{
+        "start":"__***",
+        "end":"***__"
+    },
+
+    "strikethrough":"~~",
+
+    "hide":{
+        "normal":"||",
+
+    "italic":{
+        "start":"||*",
+        "end":"*||"
+    },
+
+    "italic#1":{
+        "start":"||_",
+        "end":"_||"
+    },
+
+    "bold":"**",
+
+    "bold_italics":"***",
+
+    "underline":{
+        "start":"||__",
+        "end":"__||"
+    },
+
+    "underline_italics":{
+        "start":"||__*",
+        "end":"*__||"
+    },
+
+    "underline_bold":{
+        "start":"||__**",
+        "end":"**__||"
+    },
+
+    "underline_bold_italics":{
+        "start":"||__***",
+        "end":"***__||"
+    },
+
+    "strikethrough":{
+        "start":"||~~",
+        "end":"~~||"
+    }
+    },
+
+    "note":"`",
+
+    "code":"```"
+
+}
