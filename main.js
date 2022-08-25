@@ -31,14 +31,14 @@ bot.on("ready", async =>{
   bot.guilds.forEach((guild)=>{
       console.log(`${guild.name} - #${guild.id}`)
   });
-  /*bot.user.setPresence({
+  bot.user.setPresence({
     status: "dnd",
     game:{
         name:("Maid Of Magic Star || a>help"),
         url:("https://www.twitch.tv/thedzero"),
         type:("Streaming")
     }
-  })*/
+  })
 
 
 });
